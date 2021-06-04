@@ -1,6 +1,10 @@
 <application>
   <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="10" />
@@ -22,7 +26,7 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="**/*.*" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.*" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
@@ -34,6 +38,17 @@
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseMultilineComments" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="PropertiesFoldingSettings">
+    <option name="foldPlaceholdersToContext" value="true" />
+  </component>
+  <component name="PythonFoldingSettings">
+    <option name="COLLAPSE_LONG_STRINGS" value="true" />
+    <option name="COLLAPSE_LONG_COLLECTIONS" value="true" />
+    <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
   </component>
 </application>
