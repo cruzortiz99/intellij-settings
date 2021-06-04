@@ -22,6 +22,7 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
