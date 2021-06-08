@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="compactStatusBar" value="true" />
     <option name="contrastMode" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -13,6 +14,5 @@
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="4fcf45fb:17768da992d:-8000" />
-    <option name="version" value="5.5.0" />
   </component>
 </application>
