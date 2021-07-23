@@ -3,5 +3,7 @@
     <option name="useHollowFolders" value="false" />
     <option name="monochromeColor" value="546e7a" />
     <option name="isUseHollowFolders" value="false" />
+    <option name="accentColor" value="589df6" />
+    <option name="themedColor" value="bbbbbb" />
   </component>
 </application>
