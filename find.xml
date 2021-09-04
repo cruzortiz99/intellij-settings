@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Project 'com.flashpayapp'" />
+    <option name="defaultScopeName" value="Project 'com.flashpayapp'" />
+    <option name="SEARCH_SCOPE" value="Project 'com.flashpayapp'" />
   </component>
 </application>
