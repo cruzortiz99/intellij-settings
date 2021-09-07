@@ -42,19 +42,20 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="KotlinLambdasHintsProvider" />
     <settingsMapElement>
-      <kotlin.KotlinReferencesTypeHintsProvider>
-        <Settings>
-          <option name="functionReturnType" value="true" />
-          <option name="parameterType" value="true" />
-        </Settings>
-      </kotlin.KotlinReferencesTypeHintsProvider>
       <JAVA.annotation.hints>
         <Settings>
           <option name="showInferred" value="true" />
         </Settings>
       </JAVA.annotation.hints>
+      <kotlin.KotlinReferencesTypeHintsProvider>
+        <Settings>
+          <option name="functionReturnType" value="true" />
+          <option name="parameterType" value="true" />
+          <option name="propertyType" value="true" />
+        </Settings>
+      </kotlin.KotlinReferencesTypeHintsProvider>
     </settingsMapElement>
   </component>
   <component name="JavaCodeFoldingSettings">
